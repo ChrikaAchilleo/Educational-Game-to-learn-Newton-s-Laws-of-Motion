@@ -17,7 +17,7 @@ knowledge through playing.
 
 
 # Educational Context and Structure: 
-a. According to Newton’s First Law (Law of Inertia), objects at rest remain at rest, and objects 
+According to Newton’s First Law (Law of Inertia), objects at rest remain at rest, and objects 
 in motion remain in motion unless acted upon by an external force. This is clearly demonstrated 
 as the boxes’ motional state change when interacted upon other things like the throwing sphere, 
 showing how an external force affects its motion. 

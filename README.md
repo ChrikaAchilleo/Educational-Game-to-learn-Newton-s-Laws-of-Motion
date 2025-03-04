@@ -21,7 +21,7 @@ According to Newton’s First Law (Law of Inertia), objects at rest remain at re
 in motion remain in motion unless acted upon by an external force. This is clearly demonstrated 
 as the boxes’ motional state change when interacted upon other things like the throwing sphere, 
 showing how an external force affects its motion. 
-b. Newton’s Laws of Motion Demonstrated: 
+Newton’s Laws of Motion Demonstrated: 
 
 ●  First Law (Inertia): The scenario begins by demonstrating that things remain at rest when 
 no external force is applied.  

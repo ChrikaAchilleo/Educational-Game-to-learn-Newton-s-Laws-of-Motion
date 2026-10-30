@@ -1,49 +1,41 @@
-# Educational Game to learn Newton's Laws of Motion
- 
-# Description of the teaching scenario  
-The educational scenario begins with a pyramid of boxes one stack above the other. Every box has a 
-specific mass which is labeled in the front of it. When the game starts, all o boxes remain in a state of 
-inertia, as nothing at this moment alters their motion. In the next phase of the game, the player initiates 
-interactions by inserting the mass and force of the sphere and then pressing the left key on the mouse 
-to throw it. 
-This procedure can be retrieved from the start as many times as the students’ need to observe 
-the experiment. This interaction allows students to observe how varying masses and force affect the 
-motion and behavior of the boxes, thereby illustrating the principles of Newton's Laws of Motion. 
-Through this hands-on experience, students will deepen their understanding of inertia and the 
-relationship between force and mass, enhancing their engagement with fundamental physics concepts. 
-When the student is done with the game is moving forward to a quiz, through pushing the quiz button. 
-In this scenery there are five evaluation questions to observe if students have gained the expected 
-knowledge through playing. 
+# 🎯 Newton's Laws of Motion - Educational Physics Game
 
+An interactive, physics-based educational game designed to help students learn and visualize **Newton's Three Laws of Motion** through hands-on experimentation and interactive simulation.
 
-# Educational Context and Structure
-According to Newton’s First Law (Law of Inertia), objects at rest remain at rest, and objects 
-in motion remain in motion unless acted upon by an external force. This is clearly demonstrated 
-as the boxes’ motional state change when interacted upon other things like the throwing sphere, 
-showing how an external force affects its motion. 
-Newton’s Laws of Motion Demonstrated: 
+---
 
-●  First Law (Inertia): The scenario begins by demonstrating that things remain at rest when 
-no external force is applied.  
+## 📖 Overview & Teaching Scenario
 
-● Second Law (Force and Acceleration): The player launches spheres in the designated 
-direction by pressing the left click of the mouse. Before this process begins, the user enters 
-the mass and the force of the accelerating sphere, in order to observe the difference according 
-to the data that have been entered. 
+The scenario opens with a pyramid stack of labeled boxes, each assigned a specific mass. 
 
-● Third Law (Action and Reaction): The player then observes how the spheres and boxes 
-interact upon collision, in accordance with the Third Law (Action and Reaction). According to 
-Newton's Third Law (for every action, there is an equal and opposite reaction), when the sphere 
-strikes the boxes, the boxes react by exerting an equal and opposite force. 
-The force and mass of the contact determines whether the boxes move or bounce away. 
+1. **Phase 1 (Inertia):** At start, all boxes remain stationary at rest, demonstrating **Newton's First Law**.
+2. **Phase 2 (Experimentation):** The player inputs custom parameters for a sphere—specifically its **Mass** and **Force**—and left-clicks the mouse to launch it at the stack.
+3. **Phase 3 (Observation & Repeatability):** Students can reset and replay the experiment as many times as needed to observe how altering force and mass impacts acceleration, collision behavior, and momentum.
+4. **Phase 4 (Assessment):** Upon completing the simulation, pressing the **Quiz Button** transitions the student to an evaluation module containing 5 interactive physics questions to test their understanding.
 
+---
 
-# How to download and play 
+## 🔬 Physics Principles Demonstrated
 
-In order to play you only need to download the file "NewtonsLawGame".
+* **First Law (Law of Inertia):** Objects remain at rest unless acted upon by an external net force. The stacked boxes stay completely still until struck by the sphere.
+* **Second Law ($F = ma$ / Acceleration):** Students observe how varying the sphere's mass and input force changes its acceleration and the resulting impact on the box pyramid.
+* **Third Law (Action & Reaction):** During collisions, the sphere and boxes exert equal and opposite forces on each other. The physical reaction (whether boxes shatter, collapse, or cause the sphere to bounce back) depends directly on the collision parameters.
 
+---
 
-Then you double click on the executional file "NewtonsLaws.exe".
+## 🎓 Educational Goals
 
+* **Hands-on Learning:** Fosters active engagement through parameter manipulation ($F$ and $m$).
+* **Visualizing Physics:** Connects abstract mathematical equations to visual motion and physical responses.
+* **Self-Assessment:** Evaluates student knowledge retention directly via the integrated 5-question post-game quiz.
 
-Then play!.
+---
+
+## 📥 How to Download and Play
+
+Getting started is simple and requires no complex installation setup:
+
+1. **Download:** Download the project release file `NewtonsLawGame`.
+2. **Extract & Launch:** Unzip the folder and double-click the executable file:
+   ```text
+   NewtonsLaws.exe
